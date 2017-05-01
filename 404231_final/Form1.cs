@@ -26,5 +26,10 @@ namespace _404231_final
         {
             MessageBox.Show("Botton1 show");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = textBox1.Text;
+        }
     }
 }
