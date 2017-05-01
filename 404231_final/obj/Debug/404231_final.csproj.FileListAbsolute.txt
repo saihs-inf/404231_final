@@ -1,0 +1,9 @@
+C:\Users\INF2A-user\Desktop\404231_final\404231_final\bin\Debug\404231_final.exe.config
+C:\Users\INF2A-user\Desktop\404231_final\404231_final\bin\Debug\404231_final.exe
+C:\Users\INF2A-user\Desktop\404231_final\404231_final\bin\Debug\404231_final.pdb
+C:\Users\INF2A-user\Desktop\404231_final\404231_final\obj\Debug\404231_final.csprojResolveAssemblyReference.cache
+C:\Users\INF2A-user\Desktop\404231_final\404231_final\obj\Debug\_404231_final.Form1.resources
+C:\Users\INF2A-user\Desktop\404231_final\404231_final\obj\Debug\_404231_final.Properties.Resources.resources
+C:\Users\INF2A-user\Desktop\404231_final\404231_final\obj\Debug\404231_final.csproj.GenerateResource.Cache
+C:\Users\INF2A-user\Desktop\404231_final\404231_final\obj\Debug\404231_final.exe
+C:\Users\INF2A-user\Desktop\404231_final\404231_final\obj\Debug\404231_final.pdb
